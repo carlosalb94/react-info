@@ -1,0 +1,28 @@
+.character_details {
+  background-color: #363635;
+  color: white;
+  width: 330px;
+  margin: 10px 12px 5px;
+  border-radius: 5px;
+  -webkit-box-shadow: 6px 6px 5px 0px rgba(0, 0, 0, 0.45);
+  box-shadow: 6px 6px 5px 0px rgba(0, 0, 0, 0.45);
+}
+
+.character_image img {
+  width: 100%;
+}
+.character_image figcaption {
+  margin: 5px 0;
+  text-align: center;
+}
+.details {
+  margin-left: 10px;
+  font-size: 20px;
+  text-align: baseline;
+}
+
+.character_details h3 {
+  margin: 15px 0;
+  font-size: 30px;
+  text-align: center;
+}
